@@ -83,7 +83,3 @@ ESP32 recibe comandos de una sola letra (`F`, `B`, `L`, `R`, etc.) y también pe
 ## 🤝 Contribuciones
 
 Si encuentras algún error o quieres mejorar el proyecto, abre un issue o pull request.
-
-## 📄 Licencia
-
-MIT
